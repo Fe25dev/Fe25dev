@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fe25dev
 - 👀 I’m interested in ...Desarrollo Web ,Data Analitic
-- 🌱 I’m currently learning ... Cloud Insfraestructure
+- 🌱 I’m currently learning ... Cloud Infrastructure
 - 💞️ I’m looking to collaborate on ...Proyectos Web
 - ⚡ Fun fact: ...
